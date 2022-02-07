@@ -1,4 +1,4 @@
-# IBM Data Analysis Specialization Projects:
+# IBM Data Analysis Specialization Portfolio:
 Certificate : https://coursera.org/share/9fb3d06e484280ecd8336b9e0bd7d888
 
 This repository is mainly for projects and notes related to the IBM Data Analysis Professional Specialization that I had undertaken.
