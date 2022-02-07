@@ -76,3 +76,26 @@ Projects:
 - Maps and charts were plotted based on Canada's Immigration Rate Database. I identified main countries of immigration, and, by using different graphs, managed to understand different migration patterns and how they can be corelated with other factors.
 - Designing a dashboard using Dash:
    - By using data on airflights in the US, I created a dashboard using different charts that updated according to the user's year and airline company.
+
+**Part 6 - Capstone Project**
+This was my final project, which encompassed all major steps in data analysis. 
+The assignment asked me, as a data analyst for an IT company, to help identify future skill requirements. I was asked  tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. 
+
+Your first task is to collect the top programming skills that are most in demand from various sources including:
+- Job postings
+- Training portals
+- Surveys
+
+Possible insights and trends  may include the following:
+
+- What are the top programming languages in demand?
+- What are the top database skills in demand?
+- What are the popular IDEs?
+
+Subjects:
+- Data Collection
+- Data Wrangling
+- Exploratory Data Analysis
+- Data Visualization
+- Dashboard
+- Presenting Findings
